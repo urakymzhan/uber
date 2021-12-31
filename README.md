@@ -1,6 +1,9 @@
 # uber
 
-![uber gif](./non-project/uber-clone.gif)
+<!-- ![uber gif](./non-project/uber-clone.gif) -->
+
+<!-- for github -->
+<img src="./non-project/uber-clone.gif" width="50" height="120" />
 
 ## Prerequisites
 
