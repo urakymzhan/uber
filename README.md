@@ -1,5 +1,7 @@
 # uber
 
+![uber gif](./non-project/uber-clone.gif)
+
 ## Prerequisites
 
 - React
