@@ -1,9 +1,9 @@
-# uber
+# React Native Uber Clone
 
 <!-- ![uber gif](./non-project/uber-clone.gif) -->
 
 <!-- for github -->
-<img src="./non-project/uber-clone.gif" width="360" height="600" />
+<img src="./non-project/uber-clone.gif" width="360" height="auto" />
 
 ## Prerequisites
 
