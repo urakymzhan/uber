@@ -3,7 +3,7 @@
 <!-- ![uber gif](./non-project/uber-clone.gif) -->
 
 <!-- for github -->
-<img src="./non-project/uber-clone.gif" width="300" height="900" />
+<img src="./non-project/uber-clone.gif" width="360" height="600" />
 
 ## Prerequisites
 
