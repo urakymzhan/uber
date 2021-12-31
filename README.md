@@ -9,6 +9,7 @@
 
 - React
 - React Native
+- JavaScript, HTML, CSS
 - Tailwind-react-native-classnames
 - Expo Cli
 - Redux Toolkit
